@@ -4,8 +4,8 @@ Este repositorio alberga los proyectos realizados durante mi participación en e
 
 | Nombre del Proyecto    | Descripción                                                         | Librerías Utilizadas                           |
 |------------------------|---------------------------------------------------------------------|------------------------------------------------|
-| [Proyecto 3 Análisis tarifas telefonicas](https://github.com/Mimobakery/TripleTen-Proyectos/blob/3-An%C3%A1lisis-tarifas-telefonicas/Proyecto%20S5%20-%20An%C3%A1lisis%20estad%C3%ADstico%20de%20datos.ipynb)          | Análisis exploratorio de datos con Python                           | Pandas, Matplotlib, Seaborn                    |
-| Proyecto 2             | Clasificación de imágenes utilizando redes neuronales convolucionales | TensorFlow, Keras, NumPy                      |
+| [Análisis de Preferencias Musicales](https://github.com/Mimobakery/TripleTen-Proyectos/blob/1-Hip%C3%B3tesis-preferencias-musicales/Proyecto%20S3%20-%20Python.ipynb)          | Este proyecto aplica técnicas de análisis y preprocesamiento de datos, y la prueba de hipótesis, mediante el estudio de las preferencias musicales en dos ciudades            | Pandas            |
+| [Limpieza y Análisis de Datos de Instacart](https://github.com/Mimobakery/TripleTen-Proyectos/blob/main/Proyecto%20S4%20-%20Data%20Wrangling.ipynb) | Este proyecto se enfoca en el data wrangling de los datos de Instacart, limpiando y preparando la información para analizar los patrones de compra de los clientes y generar visualizaciones claras. | Pandas, Matplotlib                      |
 | Proyecto 3             | Predicción de ventas usando modelos de regresión                    | Scikit-learn, Pandas, Matplotlib               |
 | Proyecto 4             | Análisis de series temporales para predecir demanda                 | Statsmodels, Pandas, Numpy                     |
 | Proyecto 5             | Modelo de clasificación para detectar fraudes en tarjetas de crédito | Scikit-learn, Imbalanced-learn, Pandas         |
