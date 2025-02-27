@@ -235,4 +235,4 @@ start_ts	weather_records	duration_seconds
 
 Para estos viajes, se recuperaron tanto las condiciones climáticas específicas de cada hora como la duración de cada viaje, lo que será fundamental para la prueba de hipótesis posterior.
 
-[Continuación pasos siguientes y conclusión final]()
+[Continuación pasos siguientes y conclusión final](https://github.com/Mimobakery/TripleTen-Proyectos/blob/5-An%C3%A1lisis-taxi-rides/Proyecto%20S8%20-%20Zuber%20taxi%20rides.ipynb)
